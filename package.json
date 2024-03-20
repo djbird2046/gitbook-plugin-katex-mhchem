@@ -1,22 +1,22 @@
 {
-    "name": "gitbook-plugin-katex",
-    "description": "Math typesetting using KaTex into GitBook",
+    "name": "gitbook-plugin-katex-mhchem",
+    "description": "Math typesetting using KaTex into GitBook with chemical equation",
     "main": "index.js",
-    "version": "1.1.4",
+    "version": "0.16.9",
     "engines": {
-        "gitbook": ">=2.0.0"
+        "gitbook": ">=3.0.0"
     },
-    "homepage": "https://github.com/GitbookIO/plugin-katex",
+    "homepage": "https://github.com/djbird2046/gitbook-plugin-katex-mhchem",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/plugin-katex.git"
+        "url": "https://github.com/djbird2046/gitbook-plugin-katex-mhchem.get"
     },
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/GitbookIO/plugin-katex/issues"
+        "url": "https://github.com/djbird2046/gitbook-plugin-katex-mhchem/issues"
     },
     "dependencies": {
-        "katex": "0.7.1"
+        "katex": "0.16.9"
     },
     "keywords": ["math", "latex"]
 }
